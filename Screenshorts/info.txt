@@ -1,1 +1,20 @@
 
+This folder contains screenshots related to the data cleaning and preprocessing phase of the Superstore Sales dataset project.
+
+Files Included:
+
+1. Before_Cleaning.png
+- Screenshot of the raw dataset before preprocessing.
+- Shows original data structure and uncleaned format.
+
+2. After_Cleaning.png
+- Screenshot of the cleaned dataset after preprocessing.
+- Includes standardized date formatting, cleaned data structure, and newly created analytical columns.
+- Highlights newly added analytical columns such as:
+  - Order_Year
+  - Order_Month
+  - Month_Number
+  - Profit_Margin
+  - Shipping_Days
+
+These screenshots provide visual proof of the data cleaning workflow and dataset transformation process performed using Microsoft Excel.
